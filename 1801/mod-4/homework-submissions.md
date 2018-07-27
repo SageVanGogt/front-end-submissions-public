@@ -130,9 +130,9 @@ I did the first three additional problems - Add a client-side JavaScript file, M
 * [Node Server Tutorial]()
 * [Express Tutorial]() - What additional items did you work on?
 * [Promise Practice Exercises]()
-* [House of Vars Blog Post]()
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [House of Vars Blog Post](https://medium.com/@thurmanvogt/documenting-your-open-source-project-bea7fee11e06)
+* [Pattern Party Repo](https://github.com/SageVanGogt/pattern-party)
+* [Pattern Party GitHub Pages](https://sagevangogt.github.io/pattern-party/)
 
 ### Seamus Quinn
 
